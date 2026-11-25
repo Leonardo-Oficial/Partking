@@ -4,7 +4,7 @@ Plano tridimensional del centro de Valdivia con los 50 tramos de estacionamiento
 de la Propuesta Pública N° 171-2025 (ID 2282-185-LP25), pensado para el
 seguimiento técnico de la concesión.
 
-**Ver en línea:** https://USUARIO.github.io/catastro-171-2025/
+**Ver en línea:** https://leonardo-oficial.github.io/Partking/
 
 ## Qué hace
 
